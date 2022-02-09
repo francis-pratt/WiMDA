@@ -3,7 +3,7 @@ WiMDA stands for Windows Muon Data Analysis
 
 This is Francis Pratt's Muon Data Analysis Program for Windows Computers
  
-The current version of the WiMDA executable is version 1.314 (04/02/22), downloadable <a href=/downloads/currentwimda/wimda.exe >here</a> 
+The current version of the WiMDA executable is version 1.314 (04/02/22), downloadable <a href=downloads/currentwimda/wimda.exe >here</a> 
 
 For a new installation follow the Installation Notes, <a href=install.md >install.md</a>, which provides details and links for installation, 
 together with links to further programs that are needed for adding user fitting functions to WiMDA.
