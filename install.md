@@ -41,7 +41,7 @@ The compiled libraries must be have "fit" as the last three characters of the na
 <h2>User Relaxation and Model Functions (Free Pascal Compiler)</h2>
 
 The files needed for use with the basic command line compiler can be downloaded as <a href=/download/fpc_files/fpc_files.zip >fpc_files.zip </a>. 
-The compiler option -Mdelphi must be used. However it is recommended to use the FPC via the Lazarus IDE.
+The compiler option `-Mdelphi` must be used. However it is recommended to use the FPC via the Lazarus IDE.
 
 <h2>Using the Lazarus IDE</h2>
 
