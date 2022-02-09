@@ -11,6 +11,7 @@ Basic instructions for using the program are given in the original <a href="doc/
 (please note that this corresponds to a rather old version and some details may have changed).
 
 Latest features: <br>
+  &ensp; new display of fit quality <br>
   &ensp; allows for suffix after run number in the naming of PSI mon files <br>
   &ensp; modelling of detector deadtime correction <br>
   &ensp; reads HAL9500 data stored in MDU format <br>
