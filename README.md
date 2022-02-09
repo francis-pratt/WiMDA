@@ -29,7 +29,7 @@ Latest features: <br>
   &ensp; rotating reference frame display <br>
 
 Raw data formats currently recognised by WiMDA: <br>
-  &ensp; ISIS: NEXUS, MACS and MCS format, i.e.current and archived data from MUSR/EMU/DEVA/HIFI/ARGUS/CHRONUS <br>
+  &ensp; ISIS: NEXUS, MACS and MCS format, i.e. current and archived data from MUSR/EMU/DEVA/HIFI/ARGUS/CHRONUS <br>
   &ensp; PSI: BIN format from GPS/LTF/GPD/DOLLY, MDU format from HAL9500, LEM data via conversion to BIN format <br>
   &ensp; KEK: pi port and mu port <br>
   &ensp; TRIUMF: TRI format <br>
