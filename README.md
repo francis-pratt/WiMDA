@@ -8,7 +8,7 @@ The current version of the WiMDA executable is version 1.314 (04/02/22), downloa
 For a new installation follow the Installation Notes, <a href=install.md >install.md</a>, which provides details and links for installation, 
 together with links to further programs that are needed for adding user fitting functions to WiMDA.
 
-Basic instructions for using the program are given in the original <a href=doc/WiMDA manual.doc >WiMDA manual</a><br> 
+Basic instructions for using the program are given in the original <a href=doc/WiMDA%20manual.doc >WiMDA manual</a><br> 
 (please note that this corresponds to a rather old version and some details may have changed).
 
 Latest features: <br>
