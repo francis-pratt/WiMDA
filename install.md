@@ -9,7 +9,7 @@ The current version is 4.2.5 and it can be downloaded from <a href="https://glx.
 where manuals are also available. 
 A brief GLE user guide can also be found <a href="http://users.ox.ac.uk/~sjb/gle/glemanual/" >here</a>.
 
-3) Finally install the WiMDA package itself, which is found in the file <a href=download/currentwimda/WiMDAinstall.zip >WiMDAinstall.zip</a>. 
+3) Finally install the WiMDA package itself, which is found in the file <a href=download/currentwimda/wimda-install.zip >wimda-install.zip</a>. 
 This includes the main program wimda.exe and various dll libraries that are needed to read NeXus format data files. 
 Extract these files into a new folder in a convenient location. 
 
