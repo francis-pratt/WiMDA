@@ -36,7 +36,7 @@ Raw data formats currently recognised by WiMDA: <br>
 
 Versions currently expire after 24 months; users should download a newer version at least every 24 months to keep up with bug fixes and new features.
 
-A <a href=doc/wimda.pdf >paper</a> on WiMDA with screenshots was presented at the MUSR99 conference in Les Diablerets (August 30th - September 3rd 1999) and provides an overview of the program.
+A short <a href=doc/wimda.pdf >paper</a> on WiMDA with <a href=doc/wimdap4.pdf>screenshots</a> was presented at the MUSR99 conference in Les Diablerets (August 30th - September 3rd 1999) and provides an overview of the program.
 
 Please cite this paper as F.L. Pratt, Physica B 289-290, 710 (2000) when you refer to the use of the WiMDA data analysis program in a publication.
 
